@@ -15435,14 +15435,6 @@
       "name": "BGE-M3"
     },
     {
-      "id": "DeepSeek-V4.1-Flash",
-      "object": "model",
-      "provider": {
-        "id": "flexai"
-      },
-      "name": "DeepSeek V4.1 Flash"
-    },
-    {
       "id": "DeepSeek-V4.1-Flash-1017",
       "object": "model",
       "provider": {
@@ -15601,14 +15593,6 @@
         "id": "flexai"
       },
       "name": "Qwen3.8 27B"
-    },
-    {
-      "id": "Qwen3-8B-FP8",
-      "object": "model",
-      "provider": {
-        "id": "flexai"
-      },
-      "name": "Qwen 3 8B"
     },
     {
       "id": "Qwen3.8-Flash-Next",
